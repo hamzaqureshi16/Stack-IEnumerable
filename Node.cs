@@ -2,10 +2,9 @@
 {
     internal class Node<t>
     {
-        //make node class for linked lists
+        
         private t data;
         private Node<t>? next;
-        //make properties for the fields
         public t Data
         {
             get { return data; }
