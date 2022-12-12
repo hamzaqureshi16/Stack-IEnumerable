@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace IEnumeralble
 {
     //make a generic stack class
-    class Stack<t>:IEnumerable
+    class Stack<t>:IEnumerable<t>
     {
         
         private Node<t> top;
@@ -67,6 +67,11 @@ namespace IEnumeralble
                 yield return current.Data;
                 current = current.Next;
             }
-}
+        }
+
+        public IEnumerator<t> GetEnumerator()
+        {
+            return this.GetEnumerator();
+        }
     }
 }

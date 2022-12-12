@@ -12,6 +12,7 @@ namespace IEnumeralble
             {
                 stk.Push(i);
             }
+            
 
             foreach (int i in stk)
             {
