@@ -1,0 +1,15 @@
+C:\Users\Mhamz\source\repos\IEnumeralble\bin\Debug\net6.0\IEnumeralble.exe
+C:\Users\Mhamz\source\repos\IEnumeralble\bin\Debug\net6.0\IEnumeralble.deps.json
+C:\Users\Mhamz\source\repos\IEnumeralble\bin\Debug\net6.0\IEnumeralble.runtimeconfig.json
+C:\Users\Mhamz\source\repos\IEnumeralble\bin\Debug\net6.0\IEnumeralble.dll
+C:\Users\Mhamz\source\repos\IEnumeralble\bin\Debug\net6.0\IEnumeralble.pdb
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.csproj.AssemblyReference.cache
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.AssemblyInfoInputs.cache
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.AssemblyInfo.cs
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.csproj.CoreCompileInputs.cache
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.dll
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\refint\IEnumeralble.dll
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.pdb
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\IEnumeralble.genruntimeconfig.cache
+C:\Users\Mhamz\source\repos\IEnumeralble\obj\Debug\net6.0\ref\IEnumeralble.dll
